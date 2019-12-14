@@ -1,0 +1,16 @@
+[
+{
+	class: com.box.mun.world.Entities.EntitySave
+	name: Towel
+	x: 273
+	y: 100
+	DATA: {}
+}
+{
+	class: com.box.mun.world.Entities.EntitySave
+	name: trigger
+	x: 173
+	y: 150
+	DATA: {}
+}
+]
